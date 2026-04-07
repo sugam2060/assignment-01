@@ -1,6 +1,10 @@
 # THE ESTATE
 ### Premium Architectural Dashboard - Docker Setup
 
+> [!IMPORTANT]
+> **Note:** Property details are currently **hardcoded** in the codebase.
+
+
 This project is fully containerized for easy orchestration and deployment. Follow the steps below to launch the entire stack.
 
 ---
